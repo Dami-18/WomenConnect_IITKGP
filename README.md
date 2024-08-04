@@ -1,1 +1,2 @@
-# [Simple Mantine Template](https://mantinetemplate.netlify.app/)
+# WomenConnect
+Website created using React TypeSript and template from (https://github.com/Giuseppetm/mantine-template).
